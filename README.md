@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yylee-caemug
-- 👀 I’m interested in cae automation, tcl and python.
+- 👀 I’m interested in CAE automation, tcl and python.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on python-study.
 - 📫 How to reach me : yylee@caemug.com
