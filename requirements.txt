@@ -1,3 +1,4 @@
 streamlit
-pyvista 
+pyvista
 st-pyvista
+# cadquery는 설치가 무거우므로 뷰어만 테스트할 때는 일단 빼고 시도해보세요.
